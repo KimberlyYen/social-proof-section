@@ -1,3 +1,14 @@
+# social-proof-section
+
+## Let's see the website on line   
+立即觀看專案成果！
+傳送門 ⬇️  
+## [歡迎用力嘗試RWD效果 Social-proof-section 傳送門](ello-birthday.vercel.app)
+
+![A0E60245-2D51-4053-B379-0F4F454765D3_1_105_c](https://user-images.githubusercontent.com/87320011/183928108-b40617f9-d68a-4d4b-9820-1c5d842e4a81.jpeg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +79,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
